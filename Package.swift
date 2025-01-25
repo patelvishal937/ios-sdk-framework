@@ -5,6 +5,9 @@ import PackageDescription
 
 let package = Package(
     name: "tag_testing_package",
+    platforms: [
+        .iOS(.v13) // Ensure compatibility with iOS 13 and up
+    ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
