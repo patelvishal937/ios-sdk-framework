@@ -1,0 +1,4 @@
+module tag_testing_package {
+    header "/Users/vishal/work coding/quest ios and android sdk/tag-change-package-testing/ios-sdk-framework/.build/arm64-apple-macosx/debug/tag_testing_package.build/tag_testing_package-Swift.h"
+    requires objc
+}
