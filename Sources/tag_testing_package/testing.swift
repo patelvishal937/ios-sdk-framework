@@ -7,6 +7,9 @@
 import SwiftUI
 
 public struct tag1: View {
+    
+    public init() {}
+    
     public var body: some View {
         VStack {
             Image(systemName: "globe")
