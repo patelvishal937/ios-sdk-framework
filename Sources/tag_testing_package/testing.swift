@@ -11,7 +11,7 @@ struct tag1: View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
-            Text("Hello, world!")
+            Text("this is tag 1")
         }
         .padding()
     }

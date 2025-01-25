@@ -7,5 +7,11 @@
     "object": "/Users/vishal/work coding/quest ios and android sdk/tag-change-package-testing/ios-sdk-framework/.build/arm64-apple-macosx/debug/tag_testing_package.build/tag_testing_package.swift.o",
     "swiftmodule": "/Users/vishal/work coding/quest ios and android sdk/tag-change-package-testing/ios-sdk-framework/.build/arm64-apple-macosx/debug/tag_testing_package.build/tag_testing_package~partial.swiftmodule",
     "swift-dependencies": "/Users/vishal/work coding/quest ios and android sdk/tag-change-package-testing/ios-sdk-framework/.build/arm64-apple-macosx/debug/tag_testing_package.build/tag_testing_package.swiftdeps"
+  },
+  "/Users/vishal/work coding/quest ios and android sdk/tag-change-package-testing/ios-sdk-framework/Sources/tag_testing_package/testing.swift": {
+    "dependencies": "/Users/vishal/work coding/quest ios and android sdk/tag-change-package-testing/ios-sdk-framework/.build/arm64-apple-macosx/debug/tag_testing_package.build/testing.d",
+    "object": "/Users/vishal/work coding/quest ios and android sdk/tag-change-package-testing/ios-sdk-framework/.build/arm64-apple-macosx/debug/tag_testing_package.build/testing.swift.o",
+    "swiftmodule": "/Users/vishal/work coding/quest ios and android sdk/tag-change-package-testing/ios-sdk-framework/.build/arm64-apple-macosx/debug/tag_testing_package.build/testing~partial.swiftmodule",
+    "swift-dependencies": "/Users/vishal/work coding/quest ios and android sdk/tag-change-package-testing/ios-sdk-framework/.build/arm64-apple-macosx/debug/tag_testing_package.build/testing.swiftdeps"
   }
 }
