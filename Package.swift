@@ -19,6 +19,9 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
             name: "tag_testing_package"),
+        .binaryTarget(
+            name: "quest_ios_sdk",
+            path: "./Sources/quest_ios_sdk")
 
     ]
 )
