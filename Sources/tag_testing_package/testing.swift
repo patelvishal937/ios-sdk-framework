@@ -6,8 +6,8 @@
 //
 import SwiftUI
 
-struct tag1: View {
-    var body: some View {
+public struct tag1: View {
+    public var body: some View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
